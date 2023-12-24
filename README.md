@@ -81,6 +81,7 @@ Group data and perform aggregate functions like SUM, AVG, COUNT, etc.
 
 Table Views and Connecting SQL to Python
 
+
 Create and use table views and explore how to connect SQL to Python.
 
 Contributing
