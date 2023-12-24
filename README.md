@@ -3,20 +3,35 @@ SQL Exercise Repository
 Welcome to the SQL Exercise Repository! This repository is designed to help you practice and enhance your SQL skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to sharpen your SQL proficiency, you'll find a variety of exercises covering a wide range of topics.
 
 Table of Contents
+
 Introduction
+
 Getting Started
+
 Exercise Topics
+
 Exercise Topics
+
 Basic SQL Operations
+
 WHERE Clause and Operators
+
 CREATE and INSERT Statements
+
 JOIN Types
+
 ORDER BY
+
 Temporary Tables
+
 Window Functions and Case Statements
+
 Math Functions
+
 GROUP BY and Aggregate Functions
+
 Table Views and Connecting SQL to Python
+
 Contributing
 
 Introduction
