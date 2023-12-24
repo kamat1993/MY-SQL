@@ -20,6 +20,8 @@ Table Views and Connecting SQL to Python
 Contributing
 
 Introduction
+
+
 This repository contains a series of SQL exercises to help you practice and improve your SQL skills. Each exercise is designed to focus on specific aspects of SQL, from basic operations to more advanced topics like window functions, joins, and connecting SQL to Python.
 Getting Started
 Exercise Topics
